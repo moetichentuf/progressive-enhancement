@@ -1,0 +1,129 @@
+
+h1{
+
+    font-family: 'DM Serif Display', serif;
+    color: midnightblue;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2{
+    margin-left: auto;
+    margin-left: auto;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.quotations{
+    border-left: 3px solid black;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    border-style: dashed;
+
+
+    font-style: italic;
+}
+.notification{
+    background:yellow;
+
+    border:1px solid #DDDDCC;
+    width:250px;
+
+    height: 50px;
+    font-weight:bold;
+    color: #333300;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+
+.noti{
+    color: midnightblue;
+
+    margin-left: 20px;
+}
+img{
+    max-width: 70%;
+    margin:10px;
+    float: right;
+
+
+}
+
+.quote{
+
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+body{
+    font-family: 'PT Serif', serif;
+    display: table;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: linear-gradient(to bottom,white, yellow);
+
+}
+
+.wit{
+    text-align: center;
+}
+
+table{
+    color: black;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ul{
+
+
+    text-align: left;
+}
+
+
+
+th, td {
+    border: 1px solid black;
+    border-left: 0px;
+    border-right:0px ;
+
+}
+
+header:nth-child(1) {background-color: yellow;}
+
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+a{
+
+    color: red;
+}
+
+a:hover {
+
+    color: darkred;
+}
+
+a:visited {
+    color: darkred;
+}
+.good{
+    color: green;
+    text-transform: capitalize;
+}
+
+.bad{
+    color: red;
+    text-transform: capitalize;
+}
+
+.human{
+font-weight: bold;
+
+}
